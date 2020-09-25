@@ -1,0 +1,37 @@
+{
+  "name": "gatsby",
+  "description": "Gatsby starter styled with Tailwind",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "gatsby": "2.24.65",
+    "gatsby-plugin-manifest": "2.4.29",
+    "gatsby-plugin-offline": "3.2.27",
+    "gatsby-plugin-postcss": "2.3.11",
+    "gatsby-plugin-react-helmet": "3.3.11",
+    "gatsby-plugin-sharp": "2.6.35",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-helmet": "6.1.0"
+  },
+  "keywords": [
+    "gatsby",
+    "tailwind",
+    "tailwindcss",
+    "purgecss"
+  ],
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "devDependencies": {
+    "@tailwindcss/custom-forms": "0.2.1",
+    "autoprefixer": "9.8.6",
+    "babel-eslint": "10.1.0",
+    "cssnano": "4.1.10",
+    "tailwindcss": "1.7.3"
+  }
+}

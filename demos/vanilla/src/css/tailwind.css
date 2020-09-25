@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+.primary-btn {
+  @apply uppercase bg-red-600 text-white font-bold rounded-full inline-block my-4 mx-auto py-3 px-8;
+}
+
+.primary-btn:hover {
+  @apply bg-red-500;
+}
+
+@tailwind utilities;
