@@ -1,6 +1,6 @@
 # Based on gatsby-starter-default's .gitignore
 # https://github.com/gatsbyjs/gatsby-starter-default/blob/master/.gitignore
-.idea/
+.idea
 
 # Logs
 logs
@@ -72,4 +72,5 @@ yarn-error.log
 
 # Yarn Integrity file
 .yarn-integrity
-!/.idea/
+public/
+.cache
