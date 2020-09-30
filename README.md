@@ -1,4 +1,4 @@
-# Tailwind Demo
+# [Tailwind Demo](https://github.com/Jozwiaczek/tailwind-demo)
 
 ## Links
 - [Tailwind](https://tailwindcss.com)
